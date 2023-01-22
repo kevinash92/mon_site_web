@@ -1,5 +1,5 @@
 tmp/todo.txt
 *.class
-*.txt
 .idea
 *.tst
+*.h
